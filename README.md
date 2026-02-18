@@ -1,5 +1,3 @@
-![Header](./github-header-banner.png)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alwisteins&label=Profile%20views&color=0e75b6&style=flat" alt="alwisteins" /> </p>
 
 Konnichiwa minna~! (≧◡≦) ♡ I’m Alwi, a passionate Software Engineer from Indonesia 🇮🇩✨ with 3+ years of experience in web development, mostly focusing on frontend. I love working with modern JavaScript ecosystems to build scalable, maintainable, and user-friendly applications (๑˃ᴗ˂)ﻭ  
