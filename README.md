@@ -37,11 +37,11 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               23 mins             █████████████░░░░░░░░░░░░   50.47 % 
-Prisma                   16 mins             █████████░░░░░░░░░░░░░░░░   37.08 % 
-Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               1 hr 29 mins        ██████████████████░░░░░░░   70.56 % 
+Prisma                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 ```
 
 **I Mostly Code in TypeScript** 
