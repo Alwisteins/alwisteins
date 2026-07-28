@@ -10,6 +10,8 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%205%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -42,6 +44,28 @@ Prisma                   16 mins             ███░░░░░░░░�
 Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 28 mins (70.03%)
+
+✍️ 88 lines written by AI, 50 lines written by hand (63.77% AI-written)
+
+🔤 264,104 Input Tokens, 34,608 Output Tokens
+
+💵 $1.31 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 17 AI Prompts
+
+Opencode-Cli             372 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 63.77% of written lines came from AI
+📄 Detailed Prompter — average 1,088 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 13.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
