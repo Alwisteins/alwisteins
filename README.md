@@ -39,19 +39,19 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 29 mins        ██████████████████░░░░░░░   70.56 % 
-Prisma                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+TypeScript               1 hr 29 mins        █████████████████░░░░░░░░   67.89 % 
+Prisma                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (70.03%)
+⏱ AI Coding Time: 1 hr 28 mins (67.38%)
 
-✍️ 88 lines written by AI, 50 lines written by hand (63.77% AI-written)
+✍️ 88 lines written by AI, 82 lines written by hand (51.76% AI-written)
 
 🔤 264,104 Input Tokens, 34,608 Output Tokens
 
@@ -62,10 +62,10 @@ Bash                     5 mins              █░░░░░░░░░░�
 Opencode-Cli             372 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.77% of written lines came from AI
+⚖️ Balanced with AI — 51.76% of written lines came from AI
 📄 Detailed Prompter — average 1,088 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.08% of changed lines were hand-edited
+🚀 High AI Trust — 19.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
