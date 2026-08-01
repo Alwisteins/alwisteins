@@ -39,33 +39,33 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 20 mins        ████████████████░░░░░░░░░   65.53 % 
-Prisma                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+TypeScript               1 hr 15 mins        ████████████████████░░░░░   79.41 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (69.7%)
+⏱ AI Coding Time: 1 hr 2 mins (66.53%)
 
-✍️ 88 lines written by AI, 82 lines written by hand (51.76% AI-written)
+✍️ 51 lines written by AI, 81 lines written by hand (38.64% AI-written)
 
-🔤 255,747 Input Tokens, 34,434 Output Tokens
+🔤 114,119 Input Tokens, 15,155 Output Tokens
 
-💵 $1.28 Estimated AI Cost This Week
+💵 $0.57 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 16 AI Prompts
+🧠 4 AI Sessions, 10 AI Prompts
 
-Opencode-Cli             372 lines           █████████████████████████   100.00 % 
+Opencode-Cli             324 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.76% of written lines came from AI
-📄 Detailed Prompter — average 934 characters per prompt
+⚖️ Balanced with AI — 38.64% of written lines came from AI
+📝 Concise Prompter — average 447 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 19.31% of changed lines were hand-edited
+🚀 High AI Trust — 21.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
