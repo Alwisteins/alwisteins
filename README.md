@@ -39,33 +39,13 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 15 mins        ████████████████████░░░░░   79.41 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Python                   4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 2 mins (66.53%)
-
-✍️ 51 lines written by AI, 81 lines written by hand (38.64% AI-written)
-
-🔤 114,119 Input Tokens, 15,155 Output Tokens
-
-💵 $0.57 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 10 AI Prompts
-
-Opencode-Cli             324 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.64% of written lines came from AI
-📝 Concise Prompter — average 447 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 21.36% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
