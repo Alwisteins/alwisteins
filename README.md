@@ -10,44 +10,6 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%205%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                208 commits         ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-🌆 Daytime                219 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-🌃 Evening                277 commits         █████████░░░░░░░░░░░░░░░░   36.07 % 
-🌙 Night                  64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Tuesday                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Wednesday                112 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Thursday                 94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Friday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Saturday                 144 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Sunday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
