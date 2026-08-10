@@ -39,9 +39,9 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 15 mins             ███████████████████░░░░░░   75.61 % 
-Bash                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Bash                     29 mins             ████████████████░░░░░░░░░   64.82 % 
+Markdown                 15 mins             █████████░░░░░░░░░░░░░░░░   34.63 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 🤖 **AI Coding This Week** 
