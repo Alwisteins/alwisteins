@@ -39,8 +39,7 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   8 mins              ███████████████░░░░░░░░░░   58.46 % 
-Bash                     5 mins              ██████████░░░░░░░░░░░░░░░   41.54 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
