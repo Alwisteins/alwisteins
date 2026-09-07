@@ -39,18 +39,16 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 14 mins       █████████████████████████   99.34 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   1 hr 59 mins        █████████████████████████   99.45 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (76.44%)
+⏱ AI Coding Time: 1 hr 43 mins (86.31%)
 
-✍️ 921 lines written by AI, 130 lines written by hand (87.63% AI-written)
+✍️ 921 lines written by AI, 124 lines written by hand (88.13% AI-written)
 
 🔤 512,014 Input Tokens, 94,818 Output Tokens
 
@@ -61,10 +59,10 @@ JSON                     0 secs              ░░░░░░░░░░░�
 GPT                      1,161 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.63% of written lines came from AI
+🤖 AI-Driven — 88.13% of written lines came from AI
 📚 Verbose Prompter — average 4,252 characters per prompt
 🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 14.76% of changed lines were hand-edited
+🚀 High AI Trust — 14.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
