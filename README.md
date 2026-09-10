@@ -10,7 +10,7 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2022%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -39,30 +39,31 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 31 mins       █████████████████████████   99.57 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Python                   2 hrs 43 mins       █████████████████████████   99.93 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (84.98%)
+⏱ AI Coding Time: 2 hrs 16 mins (83.52%)
 
-✍️ 1,133 lines written by AI, 134 lines written by hand (89.42% AI-written)
+✍️ 1,133 lines written by AI, 139 lines written by hand (89.07% AI-written)
 
-🔤 672,731 Input Tokens, 118,865 Output Tokens
+🔤 700,975 Input Tokens, 119,538 Output Tokens
 
-💵 $20.70 Estimated AI Cost This Week
+💵 $20.75 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 28 AI Prompts
+🧠 6 AI Sessions, 43 AI Prompts
 
 GPT                      1,373 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.42% of written lines came from AI
-📚 Verbose Prompter — average 3,145 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 13.16% of changed lines were hand-edited
+🤖 AI-Driven — 89.07% of written lines came from AI
+📚 Verbose Prompter — average 2,159 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 17.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
