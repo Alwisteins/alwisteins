@@ -39,30 +39,31 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 11 mins       █████████████████████████   100.00 % 
+Python                   2 hrs 39 mins       ███████████████████████░░   93.83 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (48.17%)
+⏱ AI Coding Time: 1 hr 6 mins (39.21%)
 
-✍️ 450 lines written by AI, 67 lines written by hand (87.04% AI-written)
+✍️ 238 lines written by AI, 57 lines written by hand (80.68% AI-written)
 
-🔤 456,615 Input Tokens, 117,747 Output Tokens
+🔤 295,898 Input Tokens, 93,700 Output Tokens
 
-💵 $6.10 Estimated AI Cost This Week
+💵 $2.35 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 52 AI Prompts
+🧠 6 AI Sessions, 40 AI Prompts
 
-GPT                      395 lines           ██████████████████████░░░   87.58 % 
-Gemini                   56 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+GPT                      183 lines           ███████████████████░░░░░░   76.57 % 
+Gemini                   56 lines            ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.04% of written lines came from AI
-📝 Concise Prompter — average 330 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 41.05% of changed lines were hand-edited
+🤖 AI-Driven — 80.68% of written lines came from AI
+📝 Concise Prompter — average 322 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 55.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
