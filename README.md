@@ -10,7 +10,7 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%203%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -39,31 +39,33 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 39 mins       ███████████████████████░░   93.83 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Python                   4 hrs 24 mins       ██████████████████████░░░   86.37 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (39.21%)
+⏱ AI Coding Time: 2 hrs 41 mins (52.56%)
 
-✍️ 238 lines written by AI, 57 lines written by hand (80.68% AI-written)
+✍️ 764 lines written by AI, 313 lines written by hand (70.94% AI-written)
 
-🔤 295,898 Input Tokens, 93,700 Output Tokens
+🔤 1,852,937 Input Tokens, 173,888 Output Tokens
 
-💵 $2.35 Estimated AI Cost This Week
+💵 $17.41 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 40 AI Prompts
+🧠 7 AI Sessions, 42 AI Prompts
 
-GPT                      183 lines           ███████████████████░░░░░░   76.57 % 
-Gemini                   56 lines            ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+Opencode-Cli             602 lines           ██████████████████░░░░░░░   71.58 % 
+GPT                      183 lines           █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Gemini                   56 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.68% of written lines came from AI
-📝 Concise Prompter — average 322 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 55.58% of changed lines were hand-edited
+🤖 AI-Driven — 70.94% of written lines came from AI
+📝 Concise Prompter — average 342 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 41.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
