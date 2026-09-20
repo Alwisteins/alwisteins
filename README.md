@@ -39,33 +39,32 @@ Sunday                   136 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 46 mins       █████████████████████░░░░   84.48 % 
-JSON                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Python                   4 hrs 24 mins       █████████████████████░░░░   83.23 % 
+JSON                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 9 mins (55.92%)
+⏱ AI Coding Time: 2 hrs 48 mins (52.88%)
 
-✍️ 862 lines written by AI, 313 lines written by hand (73.36% AI-written)
+✍️ 680 lines written by AI, 313 lines written by hand (68.48% AI-written)
 
-🔤 2,671,468 Input Tokens, 238,474 Output Tokens
+🔤 2,725,758 Input Tokens, 217,390 Output Tokens
 
-💵 $23.44 Estimated AI Cost This Week
+💵 $22.56 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 45 AI Prompts
+🧠 7 AI Sessions, 42 AI Prompts
 
-Opencode-Cli             714 lines           ███████████████████░░░░░░   74.92 % 
-GPT                      183 lines           █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Gemini                   56 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Opencode-Cli             714 lines           ███████████████████████░░   92.73 % 
+Gemini                   56 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.36% of written lines came from AI
-📝 Concise Prompter — average 362 characters per prompt
+🤖 AI-Driven — 68.48% of written lines came from AI
+📝 Concise Prompter — average 356 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 38.67% of changed lines were hand-edited
+🚀 High AI Trust — 39.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
