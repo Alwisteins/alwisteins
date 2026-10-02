@@ -10,26 +10,26 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2025%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                209 commits         ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-🌃 Evening                278 commits         █████████░░░░░░░░░░░░░░░░   36.06 % 
-🌙 Night                  64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+🌞 Morning                209 commits         ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌃 Evening                279 commits         █████████░░░░░░░░░░░░░░░░   36.14 % 
+🌙 Night                  64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Tuesday                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Wednesday                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Thursday                 94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Friday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Sunday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Monday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Tuesday                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Wednesday                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Thursday                 95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Friday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Sunday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 ```
 
 
@@ -39,32 +39,33 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 51 mins       ███████████████████░░░░░░   74.57 % 
-JSON                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Python                   4 hrs 16 mins       ███████████████████░░░░░░   74.40 % 
+JSON                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 59 mins (38.41%)
+⏱ AI Coding Time: 2 hrs 19 mins (40.31%)
 
-✍️ 376 lines written by AI, 209 lines written by hand (64.27% AI-written)
+✍️ 376 lines written by AI, 227 lines written by hand (62.35% AI-written)
 
-🔤 2,624,382 Input Tokens, 50,869 Output Tokens
+🔤 2,720,283 Input Tokens, 59,795 Output Tokens
 
-💵 $19.60 Estimated AI Cost This Week
+💵 $20.39 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 15 AI Prompts
+🧠 9 AI Sessions, 17 AI Prompts
 
 Opencode-Cli             394 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.27% of written lines came from AI
-📄 Detailed Prompter — average 1,272 characters per prompt
+⚖️ Balanced with AI — 62.35% of written lines came from AI
+📄 Detailed Prompter — average 1,133 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 39.94% of changed lines were hand-edited
+🚀 High AI Trust — 41.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
