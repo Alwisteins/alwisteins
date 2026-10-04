@@ -10,7 +10,7 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -39,33 +39,32 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 16 mins       ███████████████████░░░░░░   74.39 % 
-JSON                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   6 hrs 3 mins        ███████████████████████░░   93.31 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (40.32%)
+⏱ AI Coding Time: 2 hrs 32 mins (39.08%)
 
-✍️ 376 lines written by AI, 227 lines written by hand (62.35% AI-written)
+✍️ 431 lines written by AI, 461 lines written by hand (48.32% AI-written)
 
-🔤 2,720,283 Input Tokens, 59,795 Output Tokens
+🔤 3,528,697 Input Tokens, 70,012 Output Tokens
 
-💵 $20.39 Estimated AI Cost This Week
+💵 $23.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 17 AI Prompts
+🧠 10 AI Sessions, 17 AI Prompts
 
-Opencode-Cli             394 lines           █████████████████████████   100.00 % 
+Opencode-Cli             449 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.35% of written lines came from AI
-📄 Detailed Prompter — average 1,133 characters per prompt
+⚖️ Balanced with AI — 48.32% of written lines came from AI
+📄 Detailed Prompter — average 937 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 41.63% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 61.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
