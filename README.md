@@ -39,32 +39,32 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   6 hrs 3 mins        ███████████████████████░░   93.31 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   2 hrs 52 mins       ██████████████████████░░░   87.75 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (39.08%)
+⏱ AI Coding Time: 46 mins (23.58%)
 
-✍️ 431 lines written by AI, 461 lines written by hand (48.32% AI-written)
+✍️ 69 lines written by AI, 265 lines written by hand (20.66% AI-written)
 
-🔤 3,528,697 Input Tokens, 70,012 Output Tokens
+🔤 1,167,246 Input Tokens, 29,966 Output Tokens
 
-💵 $23.00 Estimated AI Cost This Week
+💵 $5.01 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 17 AI Prompts
+🧠 4 AI Sessions, 5 AI Prompts
 
-Opencode-Cli             449 lines           █████████████████████████   100.00 % 
+Opencode-Cli             69 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.32% of written lines came from AI
-📄 Detailed Prompter — average 937 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 61.06% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 20.66% of written lines came from AI
+📝 Concise Prompter — average 242 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 86.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
