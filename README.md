@@ -10,26 +10,26 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2010%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                209 commits         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-🌃 Evening                282 commits         █████████░░░░░░░░░░░░░░░░   36.39 % 
-🌙 Night                  64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+🌞 Morning                209 commits         ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+🌆 Daytime                223 commits         ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+🌃 Evening                282 commits         █████████░░░░░░░░░░░░░░░░   36.25 % 
+🌙 Night                  64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Tuesday                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Wednesday                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Thursday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Friday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Sunday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Monday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Tuesday                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Wednesday                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Thursday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Friday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Saturday                 148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Sunday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
 ```
 
 
@@ -39,32 +39,33 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   5 hrs 37 mins       ████████████████████████░   94.83 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Python                   3 hrs 18 mins       ████████████████████░░░░░   78.54 % 
+TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (19.37%)
+⏱ AI Coding Time: 1 hr 18 mins (31.11%)
 
-✍️ 270 lines written by AI, 409 lines written by hand (39.76% AI-written)
+✍️ 986 lines written by AI, 170 lines written by hand (85.29% AI-written)
 
-🔤 1,366,582 Input Tokens, 46,772 Output Tokens
+🔤 505,563 Input Tokens, 46,022 Output Tokens
 
-💵 $7.81 Estimated AI Cost This Week
+💵 $6.66 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
-GPT                      206 lines           ███████████████████░░░░░░   74.91 % 
-Opencode-Cli             69 lines            ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+GPT                      992 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.76% of written lines came from AI
-📝 Concise Prompter — average 406 characters per prompt
+🤖 AI-Driven — 85.29% of written lines came from AI
+📝 Concise Prompter — average 336 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 69.31% of changed lines were hand-edited
+🚀 High AI Trust — 16.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
