@@ -39,19 +39,19 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 18 mins       ████████████████████░░░░░   78.54 % 
-TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Python                   3 hrs 13 mins       ████████████████████░░░░░   78.10 % 
+TypeScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (31.11%)
+⏱ AI Coding Time: 1 hr 18 mins (31.75%)
 
-✍️ 986 lines written by AI, 170 lines written by hand (85.29% AI-written)
+✍️ 986 lines written by AI, 162 lines written by hand (85.89% AI-written)
 
 🔤 505,563 Input Tokens, 46,022 Output Tokens
 
@@ -62,10 +62,10 @@ JavaScript               1 min               ░░░░░░░░░░░�
 GPT                      992 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.29% of written lines came from AI
+🤖 AI-Driven — 85.89% of written lines came from AI
 📝 Concise Prompter — average 336 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 16.0% of changed lines were hand-edited
+🚀 High AI Trust — 15.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
