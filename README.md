@@ -10,7 +10,7 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -39,17 +39,17 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 45 mins       ███████████████████░░░░░░   76.29 % 
-TypeScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Python                   2 hrs 43 mins       ███████████████████░░░░░░   75.28 % 
+TypeScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (30.72%)
+⏱ AI Coding Time: 1 hr 8 mins (31.73%)
 
 ✍️ 849 lines written by AI, 160 lines written by hand (84.14% AI-written)
 
@@ -57,13 +57,13 @@ Other                    0 secs              ░░░░░░░░░░░�
 
 💵 $5.08 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
 GPT                      855 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 84.14% of written lines came from AI
-📝 Concise Prompter — average 202 characters per prompt
+📄 Detailed Prompter — average 600 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 17.07% of changed lines were hand-edited
 ```
