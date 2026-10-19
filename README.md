@@ -10,7 +10,7 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2057%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -39,32 +39,32 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 31 mins        ██████████████░░░░░░░░░░░   54.72 % 
-Prisma                   45 mins             ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               1 hr 33 mins        ██████████████░░░░░░░░░░░   55.10 % 
+Prisma                   45 mins             ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (75.88%)
+⏱ AI Coding Time: 2 hrs 7 mins (75.51%)
 
 ✍️ 911 lines written by AI, 6 lines written by hand (99.35% AI-written)
 
-🔤 1,075,883 Input Tokens, 28,557 Output Tokens
+🔤 1,175,544 Input Tokens, 30,179 Output Tokens
 
-💵 $15.27 Estimated AI Cost This Week
+💵 $15.69 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 26 AI Prompts
+🧠 8 AI Sessions, 28 AI Prompts
 
 GPT                      520 lines           ██████████████░░░░░░░░░░░   55.26 % 
 Opencode-Cli             421 lines           ███████████░░░░░░░░░░░░░░   44.74 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.35% of written lines came from AI
-📚 Verbose Prompter — average 1,927 characters per prompt
+📚 Verbose Prompter — average 1,975 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.84% of changed lines were hand-edited
 ```
