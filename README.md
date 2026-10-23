@@ -10,7 +10,7 @@ I also love talking about tech, productivity, work, and studying abroad — let�
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2054%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -39,34 +39,35 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 15 mins        █████████████░░░░░░░░░░░░   51.63 % 
-Prisma                   45 mins             ████████░░░░░░░░░░░░░░░░░   30.92 % 
-Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               51 mins             ██████████████░░░░░░░░░░░   54.91 % 
+Python                   25 mins             ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TSConfig                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 45 mins (71.77%)
+⏱ AI Coding Time: 59 mins (62.76%)
 
-✍️ 391 lines written by AI, 6 lines written by hand (98.49% AI-written)
+✍️ 438 lines written by AI, 42 lines written by hand (91.25% AI-written)
 
-🔤 1,116,489 Input Tokens, 21,302 Output Tokens
+🔤 970,514 Input Tokens, 29,408 Output Tokens
 
-💵 $15.24 Estimated AI Cost This Week
+💵 $12.08 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 19 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
-Opencode-Cli             421 lines           █████████████████████████   100.00 % 
+Opencode-Cli             544 lines           ████████████████████████░   97.67 % 
+Vscode                   13 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.49% of written lines came from AI
-📚 Verbose Prompter — average 2,213 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.86% of changed lines were hand-edited
+🤖 AI-Driven — 91.25% of written lines came from AI
+📄 Detailed Prompter — average 984 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 8.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
