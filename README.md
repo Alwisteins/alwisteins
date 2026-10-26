@@ -39,25 +39,25 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ███████████████░░░░░░░░░░   58.10 % 
-Python                   44 mins             █████████░░░░░░░░░░░░░░░░   37.81 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               1 hr 6 mins         ██████████████░░░░░░░░░░░   57.60 % 
+Python                   44 mins             ██████████░░░░░░░░░░░░░░░   38.45 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (61.31%)
+⏱ AI Coding Time: 1 hr 11 mins (61.61%)
 
 ✍️ 437 lines written by AI, 60 lines written by hand (87.93% AI-written)
 
-🔤 1,071,877 Input Tokens, 31,563 Output Tokens
+🔤 972,216 Input Tokens, 29,941 Output Tokens
 
-💵 $13.20 Estimated AI Cost This Week
+💵 $12.65 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 15 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
 Opencode-Cli             543 lines           ████████████████████████░   97.66 % 
 Vscode                   13 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
@@ -65,7 +65,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 87.93% of written lines came from AI
-📄 Detailed Prompter — average 921 characters per prompt
+📄 Detailed Prompter — average 663 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 12.44% of changed lines were hand-edited
 ```
